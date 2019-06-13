@@ -12,5 +12,10 @@ namespace Credito
         {
             throw new NotImplementedException();
         }
+
+        void SaveCredito()
+        {
+
+        }
     }
 }
