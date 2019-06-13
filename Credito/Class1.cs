@@ -8,6 +8,9 @@ namespace Credito
 {
     public class CreditoBits
     {
-
+        void GetCredito()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
