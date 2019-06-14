@@ -17,5 +17,10 @@ namespace Credito
         {
             throw new NotImplementedException();
         }
+
+        void DeleteCredito()
+        {
+
+        }
     }
 }
