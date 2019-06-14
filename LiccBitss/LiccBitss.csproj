@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{62DB1C24-1A15-451D-9530-B2F0041EC797}</ProjectGuid>
+    <ProjectGuid>{D7DD8ADA-E218-4FE5-BA3A-7A349C7D0F3F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Credito</RootNamespace>
-    <AssemblyName>Credito</AssemblyName>
+    <RootNamespace>LiccBitss</RootNamespace>
+    <AssemblyName>LiccBitss</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CreditoBitss.cs" />
+    <Compile Include="LiccVuCiEffe.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
