@@ -26,5 +26,11 @@ namespace LiccBitss
             string Lic = "87%";
             SaveLic(Lic);
         }
+
+
+        void DeleTeLic(IDisposable lic)
+        {
+            lic.Dispose();
+        }
     }
 }
