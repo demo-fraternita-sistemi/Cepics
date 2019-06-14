@@ -8,5 +8,23 @@ namespace LiccBitss
 {
     public class LiccVuCiEffe
     {
+
+        void AzzeraLic()
+        {
+            throw new NotImplementedException();
+            int id = 0;
+            id++;
+
+        }
+        
+        void SaveLic(object lic)
+        {
+            return;
+        }
+        void NewLic()
+        {
+            string Lic = "87%";
+            SaveLic(Lic);
+        }
     }
 }
