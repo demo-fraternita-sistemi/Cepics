@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Konnettore", "Konnettore", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonnettoreBitss", "KonnettoreBitss\KonnettoreBitss.csproj", "{9169DAC6-CCCF-437A-836E-7F214B4097AB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Topanomastica", "Topanomastica", "{39FC4B44-DCBC-4627-BB59-947B135D99E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopanomasticaBitss", "TopanomasticaBitss\TopanomasticaBitss.csproj", "{CFDF482F-1EFA-428F-A187-303EDFBE456E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{9169DAC6-CCCF-437A-836E-7F214B4097AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9169DAC6-CCCF-437A-836E-7F214B4097AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9169DAC6-CCCF-437A-836E-7F214B4097AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDF482F-1EFA-428F-A187-303EDFBE456E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDF482F-1EFA-428F-A187-303EDFBE456E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDF482F-1EFA-428F-A187-303EDFBE456E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDF482F-1EFA-428F-A187-303EDFBE456E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +58,6 @@ Global
 		{D7DD8ADA-E218-4FE5-BA3A-7A349C7D0F3F} = {F0173499-D2D5-4936-B1D9-FFC1A1C0A38A}
 		{773CAEDB-2F51-4DD4-B957-B4C1895FCC39} = {C2682AC4-16E8-4899-B322-3C6B58896847}
 		{9169DAC6-CCCF-437A-836E-7F214B4097AB} = {94A29337-13FD-47A0-A2E4-79166AEAF3D1}
+		{CFDF482F-1EFA-428F-A187-303EDFBE456E} = {39FC4B44-DCBC-4627-BB59-947B135D99E0}
 	EndGlobalSection
 EndGlobal
