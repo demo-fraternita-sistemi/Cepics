@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Credito
 {
-    public class CreditoBits
+    public class CreditoBitss
     {
         void GetCredito()
         {
@@ -20,7 +20,7 @@ namespace Credito
 
         void DeleteCredito()
         {
-
+            throw new NotImplementedException();
         }
     }
 }
