@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Credito
 {
-    public class CreditoBitss
+    public class CreditoVuCiEffe
     {
         void GetCredito()
         {
