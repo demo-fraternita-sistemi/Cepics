@@ -21,7 +21,7 @@ namespace Avvio
             WriteLine("Inserire numero carta di credito per proseguire:");
             ReadLine();
             WriteLine();
-            WriteLine("Cancellazione Database in corso...");
+            WriteLine("Cancellazione Database FsSoa in corso...");
             ReadKey();
 
         }
