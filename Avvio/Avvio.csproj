@@ -49,6 +49,24 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Credito\CredditoBitss.csproj">
+      <Project>{62db1c24-1a15-451d-9530-b2f0041ec797}</Project>
+      <Name>CredditoBitss</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KonnettoreBitss\KonnettoreBitss.csproj">
+      <Project>{9169dac6-cccf-437a-836e-7f214b4097ab}</Project>
+      <Name>KonnettoreBitss</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LiccBitss\LiccBitss.csproj">
+      <Project>{d7dd8ada-e218-4fe5-ba3a-7a349c7d0f3f}</Project>
+      <Name>LiccBitss</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TopanomasticaBitss\TopanomasticaBitss.csproj">
+      <Project>{cfdf482f-1efa-428f-a187-303edfbe456e}</Project>
+      <Name>TopanomasticaBitss</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
