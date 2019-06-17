@@ -23,7 +23,7 @@ namespace LiccBitss
         }
         void NewLic()
         {
-            string Lic = "%";
+            string Lic = "7%";
             SaveLic(Lic);
         }
 
