@@ -15,7 +15,8 @@ namespace TopanomasticaBitss
                 "Eva Green",
                 "Sharon Stone",
                 "Naomi Campbell",
-                "Asia Argento"
+                "Asia Argento",
+                "Monica Bellucci"
             };
         }
     }
