@@ -14,7 +14,8 @@ namespace TopanomasticaBitss
             {
                 "Eva Green",
                 "Sharon Stone",
-                "Naomi Campbell"
+                "Naomi Campbell",
+                "Asia Argento"
             };
         }
     }
